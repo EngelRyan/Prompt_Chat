@@ -19,16 +19,12 @@ Antes de executar o projeto, você precisa ter:
 2. **Instale as dependências:**:
   ```bash
    pip install groq
-  ```
-2. **Instale as dependências:**:
-  ```bash
-   pip install groq
 ```
 3. **Configuração da Chave de API:**:
   ```bash
    set GROQ_API_KEY='sua_chave_aqui'
 ```
-3. **Execução do Projeto**:
+4. **Execução do Projeto**:
   ```bash
    python chatbot.py
 ```
