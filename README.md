@@ -1,6 +1,6 @@
 r# Prompt Chat
 
-Um chatbot simples que utiliza a API Groq para interagir com o usuário em um formato de conversa.
+Um chatbot de terminal que utiliza a API Groq para interagir com o usuário em um formato de conversa.
 
 ## Pré-requisitos
 
