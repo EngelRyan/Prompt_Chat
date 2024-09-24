@@ -1,4 +1,4 @@
-r# Prompt Chat
+# Prompt Chat
 
 Um chatbot de terminal que utiliza a API Groq para interagir com o usuário em um formato de conversa.
 
